@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likhil10
-- 👀 I’m interested in technologies and coding
-- 🌱 I’m currently learning Cloud technologies like AWS and Azure
+- 👀 I love to learn new technologies, coding, and play soccer
+- 🌱 I’m currently learning AWS cloud technology
 - 📫 How to reach me: email me on likhil1010.sharma@gmail.com
 
 <!---
